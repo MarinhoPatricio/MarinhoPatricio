@@ -1,16 +1,25 @@
-### Hi there 👋
+</div>  
+<p align="left">  
+  Hi 👋, I'm Marinho 
+</p> 
+  
+ 🤔 I've just created this, so there's not much to see here <img align="" height="15px" width="15" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"/>!
 
-<!--
-**MarinhoPatricio/MarinhoPatricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 📚 Would-be information system student
+ 
+ 🤯 Privacy freak
+</p>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Marinho GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinhoPatricio&show_icons=true&theme=dark)
+  
+<!-- Visitors Count -->
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarinhoPatricio}/count.svg" /></p> 
+</div>
+
+<div align="center">
+<img src="https://kratikal.com/blog/wp-content/uploads/2023/02/keyboard-typing-gif-7.gif" width="200px" height="151px" align="center"/>
+</div>
