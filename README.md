@@ -1,5 +1,4 @@
-</div>  
-<p align="left">  
+ <p align="left">  
   Hi 👋, I'm Marinho 
 </p> 
   
