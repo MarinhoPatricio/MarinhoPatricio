@@ -5,8 +5,6 @@
  🤔 I've just created this, so there's not much to see here <img align="" height="15px" width="15" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"/>!
 
  📚 Would-be information system student
- 
- 🤯 Privacy freak
 </p>
 <br>
 
